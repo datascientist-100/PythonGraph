@@ -203,3 +203,9 @@ plt.tight_layout()
 
 plt.show()
 ```
+
+
+
+Butterfly charts
+https://geoffruddock.com/notebooks/data-viz/butterfly-charts/
+
