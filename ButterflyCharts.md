@@ -209,3 +209,9 @@ plt.show()
 Butterfly charts
 https://geoffruddock.com/notebooks/data-viz/butterfly-charts/
 
+<img width="477" height="217" alt="image" src="https://github.com/user-attachments/assets/e86956e7-a100-4c1c-be0e-9647018a9b14" />
+
+<img width="794" height="300" alt="image" src="https://github.com/user-attachments/assets/2212cb1d-f765-46bb-bc80-88067bedf9e2" />
+
+
+
