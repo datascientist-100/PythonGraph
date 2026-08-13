@@ -1,5 +1,5 @@
 
-
+## 
 https://www.facebook.com/story.php?story_fbid=1576332137296137&id=100047580963457
 
 https://chatgpt.com/share/6a75685f-8c64-83ee-bede-5bc6c5d56bd9
@@ -206,7 +206,8 @@ plt.show()
 
 
 
-Butterfly charts
+
+## Butterfly charts
 https://geoffruddock.com/notebooks/data-viz/butterfly-charts/
 
 <img width="477" height="217" alt="image" src="https://github.com/user-attachments/assets/e86956e7-a100-4c1c-be0e-9647018a9b14" />
